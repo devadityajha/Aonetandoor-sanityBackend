@@ -1,3 +1,6 @@
+// NOTE: Ye templates abhi kaam nahi kar rahe — category pre-fill nahi hoti.
+// Filhaal All Products se product banate hain aur category manually select karte hain.
+
 const CATEGORY_TITLES = [
   'Home Tandoors',
   'Restaurant Tandoors',
