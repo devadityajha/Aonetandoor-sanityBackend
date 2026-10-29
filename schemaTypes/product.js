@@ -184,26 +184,3 @@ export default {
     },
   ],
 }
-
-// corematerial  done
-// outercasing  done
-// insulation done
-// dimen done
-// usag done
-// portability done
-// fuel option  done
-// usage envrmnt done
-// customization done
-// top surface done
-// access done
-// wt. done
-// importable done
-// safety norms done
-
-// //size info
-// model
-// lnght
-// ht.
-// wdth
-// wt.
-// mouth diameter
